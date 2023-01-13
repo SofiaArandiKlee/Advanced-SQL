@@ -1,10 +1,8 @@
 # Advanced-SQL
 The following projects are included:
 
-Project: Climate Change
-
-Window Functions
-
+Project: Climate Change 
+Window Functions 
 Description: Climate change data on the United States. The data contains one table with the average annual temperature for each state.
 
 Project: Warby Parker
